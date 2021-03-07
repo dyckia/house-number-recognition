@@ -1,6 +1,6 @@
 # SVNH CNN
 
-Using TensorFlow (Keras) to classify house numbers in the Stanford [Street View House Numbers (SVHN) Dataset](http://ufldl.stanford.edu/housenumbers/).
+Using TensorFlow (Keras) to classify house numbers in the [Street View House Numbers (SVHN) Dataset](http://ufldl.stanford.edu/housenumbers/) by Stanford University.
 
 ![](http://ufldl.stanford.edu/housenumbers/examples_new.png)
 
