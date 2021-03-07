@@ -2,6 +2,8 @@
 
 Using TensorFlow (Keras) to classify house numbers in the [Street View House Numbers (SVHN) Dataset](http://ufldl.stanford.edu/housenumbers/).
 
+![](http://ufldl.stanford.edu/housenumbers/examples_new.png)
+
 ## Demo
 Please check this [Jupyter Notebook](https://nbviewer.jupyter.org/github/dyckia/SVHN-CNN/blob/master/SVHN.ipynb) for the model pipline and performance.
 
