@@ -17,7 +17,7 @@ Please check this [Jupyter Notebook](https://nbviewer.jupyter.org/github/dyckia/
 | dropout (Dropout)      | (None, 14, 6, 32) | 0 |
 | conv2d_2 (Conv2D)      | (None, 12, 4, 64) | 18496 |
 | conv2d_3 (Conv2D)      | (None, 10, 2, 64) | 36928 |
-| max_pooling2d_1 (MaxPooling2      | (None, 5, 1, 64) | 0 |
+| max_pooling2d_1 (MaxPooling2D)    | (None, 5, 1, 64) | 0 |
 | dropout_1 (Dropout)      | (None, 5, 1, 64) | 0 |
 | flatten (Flatten)      | (None, 320) | 0 |
 | dense (Dense)      | (None, 512) | 164352 |
