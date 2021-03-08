@@ -25,5 +25,5 @@ Please check this [Jupyter Notebook](https://nbviewer.jupyter.org/github/dyckia/
 | dense_1 (Dense)      | (None, 10) | 5130 |
 
 Total params: 235,050
-Trainable params: 235,050
-Non-trainable params: 0
+
+Model accuracy on test data is: 92.694%
